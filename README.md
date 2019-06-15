@@ -42,7 +42,7 @@ We are considering to have another seperate additional meetup a month - preferab
 
 ## Important Group Info
 
-- [Group Code of Conduct](./code-of-conduct)
+- [Group Code of Conduct](./CODE_OF_CONDUCT.md)
 - [Intro to Group Slides](./intro-to-group-slides)
 - [Link to Sponsor Application Forms](https://forms.gle/dUk1SxQ5fZxmAahc7)
 - [Link to Speaker Application Forms](https://forms.gle/vXfCSzBeXbRjt9jN9)
