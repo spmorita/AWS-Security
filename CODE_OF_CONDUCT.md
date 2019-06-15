@@ -79,7 +79,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 https://www.meetup.com/AWS-Security/members/?op=leaders
 
-Specific contact info is provided [here](.README.md).
+Specific contact info is provided [here](/.README.md) .
 
 
 
