@@ -1,5 +1,5 @@
 ## AWS-Security
- AWS Cloud Security Meetup Group DC. Information is provided here about our group. More information can be found on our [meetup.com group page](https://www.meetup.com/AWS-Security/).
+ AWS Cloud Security Meetup Group in the DMV area. Information is provided here about our group. More information can be found on our [meetup.com group page](https://www.meetup.com/AWS-Security/).
 
 ## About Our Group
 
