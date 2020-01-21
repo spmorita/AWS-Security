@@ -23,13 +23,14 @@ Some of the few topics that we will discuss in our group are:
 
 * Inventory and Configuration * Identity and Access Control *
 
-## Our Organizers
-Omar A. Hoyos - [Check me out!](linkedin.com/in/omarhoyos)
-
+## Our Organizers and Co-founders
 Sara Morales - [@MoreofSara](https://twitter.com/moreofsara) - [Check me out!](https://www.linkedin.com/in/sara-p-morales)
 
+Brent Costa - [Check me out!](https://www.linkedin.com/in/brent-costa-970293108/)
 
-We are in the process of looking for more organizers at this moment. Please reach out to us if you are interested!
+Omar A. Hoyos - [Check me out!](https://www.linkedin.com/in/omarhoyos)
+
+We are in the process of looking for assisstant organizers at this moment. Please reach out to us if you are interested!
 
 ## Our MeetUp Events
 
